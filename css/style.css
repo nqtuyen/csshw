@@ -8,7 +8,7 @@ body{
   }
 
   nav {
-    background-color: red;
+    background-color: aqua;
   }
 
   main {
@@ -28,7 +28,7 @@ body{
   h1 {
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:aquamarine;
+    color:rebeccapurple;
   }
 
   p {
